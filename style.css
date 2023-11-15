@@ -1,0 +1,27 @@
+body{
+    background: url(fime.jpg);   
+    background-size: 100%;
+
+}
+
+.ReportePDF{
+    height: 30px;
+    background: blue;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px 10px;
+    color: white;
+}
+
+.Logout{
+    height: 30px;
+    background: red;
+    text-decoration: none;
+    text-align: right;
+    padding: 5px 10px;
+    color: white;
+}
+
+table{
+    width: 100%;
+}
